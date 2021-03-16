@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="歡迎來到 Universal Astrology 占星網" />
+  <HelloWorld msg="Universal Astrology 占星網 - 十二宮位" />
 </template>
 
 <script setup>

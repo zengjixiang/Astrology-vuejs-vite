@@ -11,14 +11,6 @@ import HelloWorld from './components/Menu.vue'
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 <style>
-#app {
-  font-family: 'Roboto Mono', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: ##ffb6b9;
-  margin-top: 60px;
-}
 
 #content {
   font-family: Avenir, Helvetica, Arial, sans-serif;

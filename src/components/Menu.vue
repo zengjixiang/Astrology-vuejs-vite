@@ -3,9 +3,12 @@
 
   <p>
     |
+    <a href="../index.html">Home (首頁)</a> |
     <a href="//zengjixiang.github.io/astrology/" target="_blank">占星資訊</a> |
 
-    <a href="../house.html" target="_blank">十二宮位</a> |
+    <a href="../house.html">十二宮位</a> |
+
+    <a href="../about.html" target="_blank">about (關於)</a> |
     
     <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite Documentation</a> |
     <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>

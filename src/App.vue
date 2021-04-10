@@ -1,12 +1,12 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="歡迎來到 Universal Astrology 占星網" />
+  <Menu msg="歡迎來到 Universal Astrology 占星網" />
 
 </template>
 
 <!-- import -->
 <script setup>
-import HelloWorld from './components/Menu.vue'
+import Menu from './components/Menu.vue'
 
 </script>
 

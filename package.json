@@ -7,7 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "mongodb": "^3.6.4",
+    "mongodb": "^3.6.10",
     "vercel": "^21.3.3",
     "vue": "^3.0.5"
   },
